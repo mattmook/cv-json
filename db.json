@@ -1,0 +1,32 @@
+{
+    "profile": {
+        "name": "Matthew Dolan",
+        "tagline": "Experienced Mobile Software Specialist",
+        "location": "London, UK",
+        "skills": [
+            "Android (9 yrs)",
+            "Kotlin (3 yrs)",
+            "Java (17 yrs)",
+            "Gradle",
+            "Dagger",
+            "Koin",
+            "Coroutines",
+            "Live Data",
+            "RxJava",
+            "Retrofit",
+            "Room",
+            "Groupie",
+            "ViewModel",
+            "JUnit",
+            "Spek",
+            "Espresso",
+            "Robolectric",
+            "Mockito",
+            "Detekt",
+            "Lint",
+            "GitHub Actions",
+            "MVI",
+            "Clean architecture"
+        ]
+    }
+}
