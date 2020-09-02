@@ -1,0 +1,67 @@
+[
+    {
+        "company": {
+            "name": "Babylon Health",
+            "industry": "Health care • London",
+            "range": "07/2018 - present"
+        },
+        "roles": [
+            {
+                "title": "Senior Android Engineer",
+                "team": "Android platform team",
+                "range": "07/2018 - present"
+            }
+        ]
+    },
+    {
+        "company": {
+            "name": "IG",
+            "industry": "Financial services • London",
+            "range": "02/2008 - 07/2018"
+        },
+        "roles": [
+            {
+                "title": "Mobile Platform Architect",
+                "range": "07/2017 - 07/2018"
+            },
+            {
+                "title": "Android Technical Architect",
+                "range": "07/2014 - 07/2017"
+            },
+            {
+                "title": "Android Technical Lead",
+                "range": "01/2011 - 07/2014"
+            },
+            {
+                "title": "iOS Developer",
+                "range": "01/2010 - 01/2011"
+            },
+            {
+                "title": "Web Architect",
+                "range": "02/2009 - 01/2010"
+            },
+            {
+                "title": "Web Developer",
+                "range": "02/2008 - 02/2009"
+            }
+        ]
+    },
+    {
+        "company": {
+            "name": "Fidelity International",
+            "industry": "Investment management • London",
+            "range": "08/2001 - 01/2008"
+        },
+        "roles": [
+            {
+                "title": "Analyst Programmer",
+                "range": "02/2003 - 01/2008"
+            },
+            {
+                "title": "Analyst Programmer",
+                "team": "Work Placement",
+                "range": "08/2001 - 09/2002"
+            }
+        ]
+    }
+]
